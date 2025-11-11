@@ -28,7 +28,7 @@ For dataset preparation and baseline implementations, please refer to this nice 
 
 ```bash
 # Clone this repository (when available)
-git clone https://github.com/your-username/HaNa.git
+git clone https://github.com/haiquan-yu/HaNa.git
 cd HaNa
 
 # Install dependencies
