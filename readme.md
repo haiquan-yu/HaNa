@@ -14,7 +14,7 @@ We are currently cleaning and refactoring the code for better readability. The c
 
 ## 📊 Dataset and Baselines
 
-For dataset preparation and baseline implementations, please refer to our reference repository:
+For dataset preparation and baseline implementations, please refer to this nice work:
 
 **[NPC](https://github.com/ZhangXu0963/NPC)**
 
