@@ -10,7 +10,7 @@ Noisy correspondence in cross-modal retrieval introduces significant challenges 
 
 **Code: Coming Soon**
 
-We are currently cleaning and refactoring the code for better readability. The complete implementation will be released before the camera-ready deadline.
+We are currently cleaning and refactoring the code for better readability. The complete implementation will be released in the future.
 
 ## 📊 Dataset and Baselines
 
