@@ -22,7 +22,7 @@ For dataset preparation and baseline implementations, please refer to our refere
 
 - **Flickr30K**
 - **MS-COCO**
-- **Conceptual Captions**
+- **CC120K**
 
 ## 🛠️ Installation & Usage
 
